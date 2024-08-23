@@ -1,4 +1,3 @@
-
 # Docker Cheat Sheet
 
 Docker is an open-source platform that enables developers to build, deploy, and manage applications within lightweight, portable containers. It allows us to package an application with all its dependencies into a standardized unit for software development.
