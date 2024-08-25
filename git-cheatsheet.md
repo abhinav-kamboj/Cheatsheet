@@ -67,6 +67,26 @@ git commit -m "Initial commit"
 *Records the staged changes in the repository with a descriptive message.*
 
 ---
+## Viewing Changes
+
+### Show Differences
+**Syntax & Example:**
+```bash
+git diff
+```
+*Displays the differences between the working directory and the staging area (i.e., changes that are not staged for commit).*
+
+---
+
+### Show Differences for Staged Changes
+**Syntax & Example:**
+```bash
+git diff --cached
+```
+*Displays the differences between the staging area and the last commit (i.e., changes that are staged for commit).*
+
+---
+
 
 ## Branching and Merging
 
